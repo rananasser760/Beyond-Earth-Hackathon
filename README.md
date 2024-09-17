@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/18feabb9-66f8-4389-96c1-d06d44ef26e3)# Beyond Earth Hackathon 🌍🚀
+# Beyond Earth Hackathon 🌍🚀
 
 # World Space Week Celebration 🚀
 
@@ -42,7 +42,7 @@
 
 # TEAM Names:
 # 
-# space Mssion : Rana Nasser
+# Space Mssion : Rana Nasser
 # Embedded : Bansee Abd-ElNasser , Youssef Ahmed Mohamed , Abd-ElRahman Tamer Mohamed.
 # AI : Safwa Ibrahim Salah , Omnia Mahmoud Ahmed , Abd-ElRahman Tarek Mahmoud 
 
