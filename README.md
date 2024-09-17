@@ -1,4 +1,4 @@
-# Beyond Earth Hackathon 🌍🚀
+![image](https://github.com/user-attachments/assets/18feabb9-66f8-4389-96c1-d06d44ef26e3)# Beyond Earth Hackathon 🌍🚀
 
 # World Space Week Celebration 🚀
 
@@ -39,3 +39,14 @@
 # To Collaborate with like-minded individuals passionate about space and technology.
 # To Learn from industry experts in the fields of space missions, embedded systems, and artificial intelligence.
 # To Contribute to global space exploration efforts and be part of a movement that pushes human knowledge further than ever before.
+
+# TEAM Names:
+# 
+# space Mssion : Rana Nasser
+# Embedded : Bansee Abd-ElNasser , Youssef Ahmed Mohamed , Abd-ElRahman Tamer Mohamed.
+# AI : Safwa Ibrahim Salah , Omnia Mahmoud Ahmed , Abd-ElRahman Tarek Mahmoud 
+
+
+
+
+
