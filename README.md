@@ -32,6 +32,13 @@ Leverage the power of Artificial Intelligence to go beyond human limitations. Le
 ---
 
 ## TEAM Names:
-- **Space Mission** : Rana Nasser  
-- **Embedded** : Bansee Abd-ElNasser, Youssef Ahmed Mohamed, Abd-ElRahman Tamer Mohamed  
-- **AI** : Safwa Ibrahim Salah, Omnia Mahmoud Ahmed, Abd-ElRahman Tarek Mahmoud
+- **Space Mission** :
+- Rana Nasser  
+- **Embedded** :
+- Bansee Abd-ElNasser
+- Youssef Ahmed Mohamed
+- Abd-ElRahman Tamer Mohamed  
+- **AI** :
+- Safwa Ibrahim Salah
+- Omnia Mahmoud Ahmed
+- Abd-ElRahman Tarek Mahmoud
