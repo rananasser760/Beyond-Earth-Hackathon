@@ -33,10 +33,10 @@ Leverage the power of Artificial Intelligence to go beyond human limitations. Le
 
 ## TEAM Names:
 - **Space Mission** :
-- Rana Nasser
+- Rana Nasser Mohamed
 - # 
 - **Embedded** :
-- Bansee Abd-ElNasser
+- Bansee Abd-ElNasser Mahmoud
 - Youssef Ahmed Mohamed
 - Abd-ElRahman Tamer Mohamed
 - # 
