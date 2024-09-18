@@ -6,6 +6,20 @@
 World Space Week is an annual international event that celebrates the achievements of science and technology in advancing human progress. It highlights how these advancements contribute to the betterment of humanity, especially in the exploration of space. It was organized in October 2023 in Cairo, Egypt at Ain Shams University, Faculty of Computer & Information Science.
 
 ---
+# Our Forest Fire Detection Project 🌲🔥
+## Project Overview:
+In recent years, extreme forest fires in regions like Australia, Russia, and the United States of America (USA) have raised global awareness of the devastating effects of wildfires. These fires have led to the destruction of habitats, the deaths of countless animals (many of which are rare species), a lack of oxygen, damage to the ozone layer, destruction of homes, and the disappearance of various plant species.
+## Our Solution:
+We aim to tackle these issues by using satellite technology to detect and prevent forest fires. Our project involves deploying 48 satellites in orbit around the Earth, equipped with sensors to monitor forests globally. These satellites will collect data and take images of forests to detect wildfires in real-time.
+### The collected data includes parameters such as:
+- **Temperature**
+- **Wind Speed**
+- **Storm Activity**
+- **Rainfall**
+- **Fine Fuel Moisture**
+- **Relative Humidity**
+
+---
 
 ## Hackathon Workshops:
 As part of the Beyond Earth Hackathon, we have three exciting workshops designed to push the boundaries of space exploration and technology:
@@ -21,13 +35,6 @@ Discover how to create robust hardware systems capable of enduring the harsh con
 ### 3. Artificial Intelligence Workshop 🤖 : 
 Enhance Human Capability.  
 Leverage the power of Artificial Intelligence to go beyond human limitations. Learn how AI can assist in space missions, from processing large datasets to automating complex tasks that are difficult for humans to perform.
-
----
-
-## Why Participate? 
-- Collaborate with like-minded individuals passionate about space and technology.  
-- Learn from industry experts in the fields of space missions, embedded systems, and artificial intelligence.  
-- Contribute to global space exploration efforts and be part of a movement that pushes human knowledge further than ever before.
 
 ---
 
